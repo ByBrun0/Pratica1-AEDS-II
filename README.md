@@ -1,9 +1,9 @@
 # Prática 1 - Estruturas de Dados com Árvores Binárias
 
-## Introdução
+## 1. Introdução
 Este repositório apresenta a solução da Prática № 1 da disciplina Algoritmos e Estruturas de Dados II, ministrada pelo professor Michel Pires Dias no CEFET-MG, campus V. O trabalho tem como foco a exploração e implementação de conceitos sobre árvores binárias de busca e estruturas balanceadas, abordando operações como inserção, remoção, cálculo da altura e sua aplicação em contextos práticos e problemas do mundo real.
 
-## Problemas Resolvidos
+## 2. Problemas Resolvidos
 ### Problema 1 - Operações em Árvores Binárias de Busca (Teórico)
 Neste problema, foram explorados conceitos teóricos e práticas de manipulação de árvores binárias de busca, como inserção, remoção, caminhamento, e análise estrutural. A solução foi elaborada em um documento LaTeX (Overleaf), contendo diagramas e explicações detalhadas.
 
@@ -25,10 +25,25 @@ Busca eficiente: Baseada em árvores binárias, otimizando desempenho.
 Análise: Discussão sobre desbalanceamento e alternativas de balanceamento.
 Entrada: Arquivo contendo uma lista de palavras em inglês.
 
-## Como Executar
-### Pré-requisitos
-  Compilador g++.
-  CMake instalado no sistema.
+##  3. Como utilizar
+
+Este projeto utiliza um Makefile para simplificar o processo de compilação e execução. Siga os passos abaixo para compilar, rodar o programa e limpar arquivos temporários:
+
+**Clone o repositório e navegue até o diretório do projeto:**
+   ```bash
+   git clone https://github.com/edualmeidahr/TrabalhoAquecimentoAeds2
+   cd TrabalhoAquecimentoAeds2
+   ```
+
+No arquivo principal [main.cpp](src/main.cpp), você pode modificar a variável "prefrase" para definir a frase de pesquisa desejada.
+
+Os comandos são:
+
+Comando   | Utilidade
+--------- | ------
+```make clean``` | Remove os arquivos objetos e o executável gerados.
+```make``` | Compila o código fonte e gera o executável.
+```make run``` | Executa o programa compilado.
 
 
 ## Contato
