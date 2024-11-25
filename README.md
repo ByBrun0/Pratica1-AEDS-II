@@ -31,11 +31,10 @@ Este projeto utiliza um Makefile para simplificar o processo de compilação e e
 
 **Clone o repositório e navegue até o diretório do projeto:**
    ```bash
-   git clone https://github.com/edualmeidahr/TrabalhoAquecimentoAeds2
-   cd TrabalhoAquecimentoAeds2
+   git clone [https://github.com/ByBrun0/Pratica1-AEDS-II]
+   cd Pratica1-AEDS-II
    ```
 
-No arquivo principal [main.cpp](src/main.cpp), você pode modificar a variável "prefrase" para definir a frase de pesquisa desejada.
 
 Os comandos são:
 
