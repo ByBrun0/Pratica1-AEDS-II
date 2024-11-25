@@ -49,5 +49,5 @@ Comando   | Utilidade
 
 Para mais informações ou sugestões, sinta-se à vontade para entrar em contato:
 
-Bruno Prado Dos Santos
-E-mail: bruno.santos@aluno.cefetmg.br
+-Bruno Prado Dos Santos
+-E-mail: bruno.santos@aluno.cefetmg.br
